@@ -1,0 +1,8 @@
+Scenario: You work as a data scientist in the cybersecurity division of a large financial institution. The company has recently experienced a series of security incidents, and the IT security team suspects a potential insider threat. To investigate this, you are tasked with analyzing a variety of data sources, including network logs, employee access records, and email communications. Your goal is to identify any unusual patterns or behaviors that could indicate malicious activity while considering the privacy and ethical implications of your analysis.
+
+Question: In the context of a potential insider threat investigation, how would you approach the analysis of diverse data sources, including network logs, employee access records, and email communications, to detect anomalous or suspicious behavior? Discuss the challenges you might face in distinguishing between legitimate and malicious actions, and how you would balance the need for cybersecurity with the privacy rights of employees. Furthermore, elaborate on the importance of maintaining transparency and ethical standards throughout the investigation process, and propose strategies for effectively communicating your findings to both technical and non-technical stakeholders within the organization.
+
+2. GENERATE the visualization below in data Science. Add all relevant screen shots as well from your program. Also share the URL of your GITHUB (Where you have uploaded your work) so that I can simulate the same.
+
+
+
